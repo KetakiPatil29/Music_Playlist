@@ -20,6 +20,3 @@ A web application to explore and enjoy Bollywood music playlists with integrated
 
 ---
 
----
-
-
