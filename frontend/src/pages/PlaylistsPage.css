@@ -1,0 +1,43 @@
+.playlists-page {
+  padding: 1.5rem;
+  text-align: left;
+}
+
+.create-playlist-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.playlist-list {
+  list-style: none;
+  padding: 0;
+}
+
+.playlist-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  margin-bottom: 0.75rem;
+}
+
+.playlist-card-link {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.playlist-count {
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+
+.empty {
+  opacity: 0.85;
+}

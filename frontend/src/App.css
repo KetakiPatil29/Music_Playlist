@@ -1,0 +1,8 @@
+.container {
+  flex: 1;
+  text-align: left;
+}
+
+#root {
+  text-align: initial;
+}
