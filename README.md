@@ -1,3 +1,3 @@
 # Music_Playlist
 
-Welcome to my portfolio repository!
+Welcome to my Music Playlist repository!
